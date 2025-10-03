@@ -26,7 +26,6 @@ This project contains solutions for Gridworld and Pick-and-Place Robot (MDP desi
 ## Installation
 1.	Clone this repository:
  	git clone https://github.com/SHIRU235/Assignment1-ReinforcementLearning.git .
-cd rl-assignment
 2.	Create a virtual environment (optional but recommended):
  	python -m venv venv
 source venv/bin/activate   # On Linux/Mac
