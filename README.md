@@ -51,7 +51,3 @@ Estimated Value Function (V):
 •	Implement Q-learning or SARSA for Gridworld.
 •	Extend Pick-and-Place to a simulated robotics environment (e.g., PyBullet).
 
-## Author
-•	
-
-•	Assignment for Reinforcement Learning Course
